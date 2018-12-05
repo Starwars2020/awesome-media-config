@@ -6,7 +6,8 @@ management:
     enabled: false    
 
 promotion: action
-  name: Starwars2020-hi
+
+name: Starwars2020-hi
 
 spring:
   application:
